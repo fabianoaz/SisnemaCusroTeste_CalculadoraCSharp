@@ -5206,23 +5206,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fabiano\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\azevedofa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabiano\\source\\repos\\CalculadoraSimples_NUnit\\CalculadoraSimples_NUnit\\CalculadoraSimples_NUnit.csproj",
+      "projectUniqueName": "C:\\Users\\azevedofa\\Source\\Repos\\SisnemaCusroTeste_CalculadoraCSharp\\CalculadoraSimples_NUnit\\CalculadoraSimples_NUnit.csproj",
       "projectName": "CalculadoraSimples_NUnit",
-      "projectPath": "C:\\Users\\Fabiano\\source\\repos\\CalculadoraSimples_NUnit\\CalculadoraSimples_NUnit\\CalculadoraSimples_NUnit.csproj",
-      "packagesPath": "C:\\Users\\Fabiano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabiano\\source\\repos\\CalculadoraSimples_NUnit\\CalculadoraSimples_NUnit\\obj\\",
+      "projectPath": "C:\\Users\\azevedofa\\Source\\Repos\\SisnemaCusroTeste_CalculadoraCSharp\\CalculadoraSimples_NUnit\\CalculadoraSimples_NUnit.csproj",
+      "packagesPath": "C:\\Users\\azevedofa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\azevedofa\\Source\\Repos\\SisnemaCusroTeste_CalculadoraCSharp\\CalculadoraSimples_NUnit\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Fabiano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\azevedofa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5274,7 +5270,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
