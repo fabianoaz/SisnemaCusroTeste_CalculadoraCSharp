@@ -61,7 +61,7 @@ namespace CalculadoraSimples_NUnit.Test
             }
             catch (Exception e)
             {
-                throw new Exception("\n\nImpossível dividir por ZERO\n" + e.Message);
+                Assert.Fail(e.Message);
             }
         }
 
@@ -76,7 +76,7 @@ namespace CalculadoraSimples_NUnit.Test
             }
             catch (Exception e)
             {
-                throw new Exception("\n\nImpossível dividir por ZERO\n" + e.Message);
+                Assert.Fail(e.Message);
             }
         }
 

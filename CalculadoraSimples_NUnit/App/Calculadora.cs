@@ -16,7 +16,14 @@ namespace CalculadoraSimples_NUnit.App
         }
         public int Divide(int a, int b)
         {
-            return a / b;
+            if(b == 0)
+            {
+                throw new InvalidOperationException ("Impossível dividir por ZERO");
+            }
+            else
+            {
+                return a / b;
+            }
         }
         public int Multiplica(int a, int b)
         {

@@ -1,0 +1,4 @@
+.git/*
+.vs/*
+CalculadoraSimples_NUnit/bin
+CalculadoraSimples_NUnit/obj
